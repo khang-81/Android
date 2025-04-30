@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.myapplication"
     compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.myapplication"
+=======
+    namespace = "com.example.demor_cyclefile"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.demor_cyclefile"
+>>>>>>> 33f04c0 (update ex2)
         minSdk = 24
         targetSdk = 35
         versionCode = 1
