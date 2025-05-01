@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/edta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập a"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/edtb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập b"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/edtc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập c"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/btnGiai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Giải PT" />
+
+    <Button
+        android:id="@+id/btnTieptuc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tiếp tục" />
+
+    <Button
+        android:id="@+id/btnThoat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Thoát" />
+
+    <TextView
+        android:id="@+id/txtkq"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kết quả"
+        android:textSize="18sp"
+        android:paddingTop="16dp" />
+</LinearLayout>
