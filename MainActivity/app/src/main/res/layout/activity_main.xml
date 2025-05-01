@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/textMain"
+        android:text="This is Main Activity"
+        android:textSize="24sp"
+        android:textColor="#212121"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/button1"
+        android:text="Open Child Activity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#03A9F4"
+        android:textColor="#FFFFFF"
+        android:padding="12dp"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
