@@ -1,0 +1,10 @@
+<employees>
+    <employee id="1" position="Manager">
+        <name>Nguyen Van A</name>
+        <phone>0123456789</phone>
+    </employee>
+    <employee id="2" position="Staff">
+        <name>Le Thi B</name>
+        <phone>0987654321</phone>
+    </employee>
+</employees>
