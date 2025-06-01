@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <title>Margherita</title>
+        <link>https://example.com/pizza/margherita</link>
+        <description><![CDATA[<img src="https://img.freepik.com/free-photo/delicious-margherita-pizza_123827-12345.jpg"/>Classic tomato, mozzarella, and basil.]]></description>
+    </item>
+    <item>
+        <title>Pepperoni</title>
+        <link>https://example.com/pizza/pepperoni</link>
+        <description><![CDATA[<img src="https://img.freepik.com/free-photo/pepperoni-pizza_123827-12346.jpg"/>Pepperoni with extra cheese.]]></description>
+    </item>
+    <item>
+        <title>Hawaiian</title>
+        <link>https://example.com/pizza/hawaiian</link>
+        <description><![CDATA[<img src="https://img.freepik.com/free-photo/hawaiian-pizza_123827-12347.jpg"/>Pineapple and ham.]]></description>
+    </item>
+</menu>
